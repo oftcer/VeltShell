@@ -1,0 +1,14 @@
+# Copie este arquivo para ssh.txt e preencha com os dados do seu VPS Ubuntu.
+# Formato (uma informação por linha):
+#
+#   IP_OU_HOSTNAME
+#   USUARIO
+#   SENHA
+#   PORTA   (opcional; padrão 22)
+#
+# Exemplo:
+
+192.168.1.100
+root
+sua_senha_segura
+22

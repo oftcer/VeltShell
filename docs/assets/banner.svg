@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="160" viewBox="0 0 720 160" role="img" aria-label="VeltShell">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="100%" stop-color="#0f2744"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="160" rx="16" fill="url(#bg)"/>
+  <rect x="24" y="24" width="112" height="112" rx="20" fill="#111827" stroke="#1e3a5f" stroke-width="2"/>
+  <rect x="40" y="48" width="80" height="52" rx="6" fill="#0b1220" stroke="#38bdf8" stroke-width="2"/>
+  <circle cx="80" cy="74" r="10" fill="none" stroke="#22d3ee" stroke-width="2"/>
+  <rect x="64" y="108" width="32" height="8" rx="2" fill="#334155"/>
+  <text x="160" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" fill="#f8fafc">VeltShell</text>
+  <text x="160" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#7dd3fc">Windows VPS · SSH · noVNC · RDP</text>
+  <rect x="160" y="128" width="180" height="4" rx="2" fill="url(#accent)"/>
+</svg>

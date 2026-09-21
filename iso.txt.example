@@ -1,0 +1,7 @@
+# Opcional: caminho completo da ISO do Windows no seu PC.
+# Se estiver vazio ou inválido, o app baixa Windows Server 2022 Eval
+# automaticamente no servidor Ubuntu.
+#
+# Exemplos:
+# C:\Users\SeuUsuario\Downloads\WinServer2022Eval.iso
+# D:\ISOs\windows.iso

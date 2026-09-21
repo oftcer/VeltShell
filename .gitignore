@@ -1,0 +1,35 @@
+# Credenciais e configuração local (NUNCA versionar)
+ssh.txt
+iso.txt
+erro.log
+*.iso
+
+# Executáveis gerados
+WindowsVPS.exe
+dist/
+build/
+*.spec.bak
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.venv/
+venv/
+env/
+.env
+
+# IDE / SO
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs e temporários
+*.log
+*.tmp
+*.bak
