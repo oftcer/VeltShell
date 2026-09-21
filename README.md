@@ -59,7 +59,7 @@ Seu PC (Windows)  ──SSH──►  VPS Ubuntu  ──►  VM Windows
 ### 1. Clone
 
 ```bash
-git clone https://github.com/SEU_USUARIO/VeltShell.git
+git clone https://github.com/oftcer/VeltShell.git
 cd VeltShell
 ```
 
