@@ -162,6 +162,12 @@ No Windows da VM, libere o firewall. O noVNC fica só no túnel local (`127.0.0.
 
 ---
 
+## Autor
+
+[oftcer](https://oftcer.com)
+
+---
+
 ## Licença
 
 [MIT](LICENSE) — use e modifique livremente.
