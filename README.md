@@ -57,6 +57,8 @@ Seu PC (Windows)  ──SSH──►  VPS Ubuntu  ──►  VM Windows
 
 ## Instalação rápida
 
+Duplo clique em **`Instalar.bat`**. Ele instala a dependência, cria o `ssh.txt` se ainda não existir e abre o app.
+
 ### 1. Clone
 
 ```bash
